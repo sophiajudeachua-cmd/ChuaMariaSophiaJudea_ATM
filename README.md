@@ -14,6 +14,6 @@ README.md – Project documentation.
 
 2. Open a terminal in the project folder.
 
-3. Run the application: python atm_system.py
+3. Run the application: python app.py
 
 4. Use the numeric menu (1-4) to navigate through your banking options.
